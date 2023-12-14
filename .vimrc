@@ -1,6 +1,6 @@
 "leader 
 let mapleader = "\ "
-"Gumber
+"Number
 set number 
 set relativenumber
 
