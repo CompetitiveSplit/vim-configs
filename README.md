@@ -1,1 +1,1 @@
-#First Vim configuration with vim-plug
+First Vim configuration with vim-plug
