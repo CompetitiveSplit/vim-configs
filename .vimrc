@@ -1,5 +1,6 @@
 "leader 
 let mapleader = "\ "
+
 "Number
 set number 
 set relativenumber
@@ -53,7 +54,7 @@ endif
 
 "other option: set background=light
 set background=dark 
-"other opcion: let g:everforest_background='hard' or 'medium' or 'soft'
+"other option: let g:everforest_background='hard' or 'medium' or 'soft'
 let g:everforest_background='hard'
 colorscheme everforest
 
